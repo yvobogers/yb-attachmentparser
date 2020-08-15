@@ -1,2 +1,2 @@
 # yb-attachmentparser
-AWS Lambda for discovering email image attachments and storing these in an S3 bucket.
+AWS Lambda (in Python) for discovering email image attachments and storing these in an S3 bucket.
